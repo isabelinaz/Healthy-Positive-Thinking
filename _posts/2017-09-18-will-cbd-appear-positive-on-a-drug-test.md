@@ -3,7 +3,7 @@ layout: post
 title: Will CBD Show as Positive on a Drug Test?
 ---
 
-#First of all you should ask yourself if CBD is illegal or not
+## First of all you should ask yourself if CBD is illegal or not
 
 Many people share a common dilemma, and it deals with whether their CBD intake will cause some problems when undergoing a drug test, either for their workplace or for other activities which request such tests. It is nothing to judge in this because, as you may already be aware of, high-quality CBD products will also comprise an amount of THC, no matter how low it is. Although it will not bring any of the "high" effects which a higher THC concentration would bring along, it is still questionable whether it will show or not on a drug test. 
 
