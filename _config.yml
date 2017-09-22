@@ -1,0 +1,11 @@
+# basic options
+title: Healthy Positive Thinking
+author: Isabelle Z
+email: info@isabelinaz.github.io
+description: Positive thinking leads to a healthy lifestyle
+twitter_username: ZarateIsabelina
+github_username: isabelinaz
+
+# Build settings
+markdown: kramdown
+theme: minima
